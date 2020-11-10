@@ -137,6 +137,12 @@ namespace Sark.Common.GridUtil
         }
 
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
+        public static bool InBounds(int2 localPos, int2 sizeXY)
+        {
+            return !(math.any(localPos < 0) || math.any(localPos >= sizeXY));
+        }
+
+        [MethodImpl(MethodImplOptions.AggressiveInlining)]
         public static int TaxicabDistance(int2 a, int2 b)
         {
             return math.abs(a.x - b.x) + math.abs(a.y - b.y);
