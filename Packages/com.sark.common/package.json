@@ -1,0 +1,24 @@
+{
+  "name": "com.sark.sark_common",
+  "displayName": "Sark Common",
+  "version": "0.0.0",
+  "unity": "2020.2",
+  "unityRelease": "0b10",
+  "description": "Some common utilities.",
+  "keywords": [
+    "pathfinding",
+    "astar",
+    "dijkstra",
+    "burst"
+  ],
+  "dependencies": {
+    "com.unity.mathematics": "1.1.0",
+    "com.unity.collections": "0.14.0-preview.16",
+    "com.unity.burst": "1.3.7"
+  },
+  "author": {
+    "name": "Sark",
+    "email": "sarkahn@gmail.com",
+    "url": "https://github.com/sarkahn/"
+  }
+}
