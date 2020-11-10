@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/sarkahn/common/compare/v0.1.0...v0.2.0) (2020-11-10)
+
+
+### Features
+
+* Added Line2D and tests ([a625128](https://github.com/sarkahn/common/commit/a625128d96029ca7aead272957e3682bc3bae911))
+
 # [0.1.0](https://github.com/sarkahn/common/compare/v0.0.3...v0.1.0) (2020-11-10)
 
 
