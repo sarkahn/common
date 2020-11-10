@@ -1,7 +1,7 @@
 {
   "name": "com.sark.common",
   "displayName": "Sark-Common",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2020.2",
   "unityRelease": "0b10",
   "description": "Some common utilities.",
