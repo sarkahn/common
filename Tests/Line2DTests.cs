@@ -1,10 +1,8 @@
 using NUnit.Framework;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using System.Linq;
 using Unity.Mathematics;
 using Unity.Collections;
+
+using Sark.Common;
 
 [TestFixture]
 public class Line2DTests
