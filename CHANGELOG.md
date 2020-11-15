@@ -1,3 +1,10 @@
+## [0.2.1](https://github.com/sarkahn/common/compare/v0.2.0...v0.2.1) (2020-11-15)
+
+
+### Bug Fixes
+
+* Refactors and added some math functions. ([021c9ce](https://github.com/sarkahn/common/commit/021c9ce9a4cb0caced5c782ed56f3e63f0b78cd0))
+
 # [0.2.0](https://github.com/sarkahn/common/compare/v0.1.0...v0.2.0) (2020-11-10)
 
 
