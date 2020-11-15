@@ -1,6 +1,6 @@
 # Common Utilities
 
-Some common utilities I use in my project.
+Some common utilities I use in my projects.
 
 ## How to Install
  
