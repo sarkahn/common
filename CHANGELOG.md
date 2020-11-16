@@ -1,3 +1,10 @@
+## [0.2.2](https://github.com/sarkahn/common/compare/v0.2.1...v0.2.2) (2020-11-16)
+
+
+### Bug Fixes
+
+* Added more simple shapes, made Geometry namespace ([3124ab7](https://github.com/sarkahn/common/commit/3124ab710143c528bdfaddc5bab575f24b220ea3))
+
 ## [0.2.1](https://github.com/sarkahn/common/compare/v0.2.0...v0.2.1) (2020-11-15)
 
 
