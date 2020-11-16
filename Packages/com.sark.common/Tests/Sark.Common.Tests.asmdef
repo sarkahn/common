@@ -6,7 +6,8 @@
         "UnityEditor.TestRunner",
         "Sark.Common.Runtime",
         "Unity.Mathematics",
-        "Unity.Collections"
+        "Unity.Collections",
+        "Unity.Burst"
     ],
     "includePlatforms": [
         "Editor"

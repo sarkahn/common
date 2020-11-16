@@ -2,7 +2,7 @@ using NUnit.Framework;
 using Unity.Mathematics;
 using Unity.Collections;
 
-using Sark.Common;
+using Sark.Common.Geometry;
 
 [TestFixture]
 public class Line2DTests

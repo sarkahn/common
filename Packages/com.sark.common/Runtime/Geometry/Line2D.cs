@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Unity.Collections;
 using Unity.Mathematics;
 
-namespace Sark.Common
+namespace Sark.Common.Geometry
 {
     public struct Line2D : IEnumerable<int2>
     {
@@ -60,6 +60,9 @@ namespace Sark.Common
 
             public bool MoveNext()
             {
+                if (line.start.Equals(line.end))
+                    return false;
+
                 int2 p = Current;
 
                 if (last.Equals(line.end))
